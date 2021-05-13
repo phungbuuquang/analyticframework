@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "AnalyticFramework"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.2"
   spec.summary      = "iOS SDK for AnalyticFramework."
   spec.description  = "iOS SDK for AnalyticFramework include example"
   spec.homepage     = "https://github.com/phungbuuquang/analyticframework.git"
