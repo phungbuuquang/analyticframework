@@ -9,6 +9,6 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "11.0"
     spec.swift_version = '5.0'
   spec.source       = { :git => "https://github.com/phungbuuquang/analyticframework.git", :tag =>                     "#{spec.version}" }
-  spec.source_files  = "AnalyticFramework", "Classes/**/*.{h,m}"
+  spec.source_files  = "AnalyticFramework/**/*.{h,m}"
   spec.public_header_files = "AnalyticFramework/**/*.h"
 end
