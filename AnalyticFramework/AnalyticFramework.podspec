@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.license      = "MIT"
   spec.author       = { "Quang Phung" => "quang.phung@xoontec.com" }
   spec.platform     = :ios, "11.0"
-    spec.swift_version = '5.0'
+  spec.swift_version = '5.0'
   spec.source       = { :git => "https://github.com/phungbuuquang/analyticframework.git",
                         :tag => "#{spec.version}" }
   spec.source_files  = "AnalyticFramework/**/*.{h,m, swift}"
